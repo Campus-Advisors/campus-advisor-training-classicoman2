@@ -5,7 +5,7 @@ line, I would like you replicate this visualization:
 
 ![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/visualize_git.png)
 
-This will require you to create a new repository and to do four seperate commits. Note, there is more than one way to replicate 
+This will require you to create a new repository and to do four separate commits. Note, there is more than one way to replicate 
 this visualization on the command line. You are more than welcome to use [Visualizing Git](http://git-school.github.io/visualizing-git/) to help you.
 
 **Hint**
